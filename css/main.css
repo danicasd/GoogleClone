@@ -80,7 +80,7 @@ nav .nav-right-section img:hover{
 /* main */
 main{
     /*agregar espacio entre header y main*/
-    margin-top: 200px;
+    margin-top: 75px;
     text-align: center;
 }
 
@@ -92,7 +92,7 @@ main .main-logo{
 }
 
 main .main-logo img{
-    height: 100px;
+    height: 170px;
 }
 
 main .main-input{
